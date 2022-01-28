@@ -1,0 +1,11 @@
+.env
+build/
+allure-report/
+
+ConfigDumpInfo.xml
+build
+out
+.scannerwork
+
+check.bat
+*.epf
